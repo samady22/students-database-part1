@@ -580,3 +580,8 @@ psql --username=freecodecamp --dbname=postgres
 ls --color=auto
 rm students_test.csv
 rm courses_test.csv
+git remote add origin https://github.com/samady22/students-database-part1.git
+git remote -v
+git remote add origin2 https://github.com/samady22/students-database-part1.git
+git remote -v
+ls --color=auto
