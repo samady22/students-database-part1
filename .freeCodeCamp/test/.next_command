@@ -176,3 +176,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./insert_data.sh
 decalre -p IFS
 declare -p IFS
+./insert_data.sh
