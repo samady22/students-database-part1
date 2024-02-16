@@ -311,3 +311,4 @@ psql --username=freecodeamp --dbname=postgres
 psql --username=freecodeamp --dbname=postgres
 psql --username=freecodeamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+./insert_data.sh
