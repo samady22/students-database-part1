@@ -577,3 +577,4 @@ psql --usernmae=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 ./insert_data.sh
+ls --color=auto
