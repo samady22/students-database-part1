@@ -74,3 +74,5 @@ do
     fi
   fi
 done
+
+#pg_dump --clear --create --inserte --username=freecodecamp students > students.sql
