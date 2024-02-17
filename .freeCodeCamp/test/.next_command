@@ -585,3 +585,5 @@ git remote -v
 git remote add origin2 https://github.com/samady22/students-database-part1.git
 git remote -v
 ls --color=auto
+--help
+pg_dump --help
