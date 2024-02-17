@@ -75,4 +75,4 @@ do
   fi
 done
 
-#pg_dump --clear --create --inserte --username=freecodecamp students > students.sql
+#pg_dump --clear --create --inserts --username=freecodecamp students > students.sql
